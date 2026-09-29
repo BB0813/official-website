@@ -30,6 +30,7 @@ export default defineConfig({
           { text: 'BeiChen', link: '/member/beichen' },
           { text: '杉枫狸 ', link: '/member/shanfengfox' },
           { text: 'Jason31416', link: '/member/jason31416' },
+          { text: 'ColdBreeze', link: '/member/coldbreeze' }
         ]
       }
     ],
