@@ -19,7 +19,6 @@ export default defineConfig({
         text: 'Group',
         items: [
           { text: 'About group', link: '/introduction' },
-          { text: 'Connect us', link: '/connect' },
         ]
       },
       {
@@ -30,6 +29,10 @@ export default defineConfig({
           { text: 'BeiChen', link: '/member/beichen' },
           { text: '杉枫狸 ', link: '/member/shanfengfox' },
           { text: 'Jason31416', link: '/member/jason31416' },
+          { text: 'ColdBreeze', link: '/member/coldbreeze' },
+          { text: '小墨 (Kuromo)', link: '/member/kuromo' },
+          { text: '杨焱 oT', link: '/member/yangyanot' },
+          { text: '星见starcatchere', link: '/member/starcatchere' }
         ]
       }
     ],

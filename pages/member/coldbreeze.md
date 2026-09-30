@@ -29,7 +29,7 @@ To be continued...
 ---
 ## 社交平台
 - QQ：[1721822150](https://qm.qq.com/q/1zv3wKKEli)
-- Email：[beichen@fpstd.com](mailto:Binbim_promax@163.com)
+- Email：[Binbim_promax@163.com](mailto:Binbim_promax@163.com)
 - Github: [BB0813](https://github.com/BB0813)
 
 ## 其他团队
