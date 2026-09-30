@@ -8,7 +8,7 @@
 
 ### 核心开发与创始成员
 - **[advan10](/member/advan10)**：团队创始成员，前端与服务器运维。
-- **[BeiChen (北尘)](/member/beichen)**：团队创始成员，SPlayer 安卓版与 DMHub 维护者。
+- **[BeiChen (北尘)](/member/beichen)**：团队创始成员，DMHub 维护者。
 - **[RegadPole](/member/regadpole)**：团队创始成员，Kotlin/Java 开发与社群活跃者。
 
 ---

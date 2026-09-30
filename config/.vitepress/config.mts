@@ -19,7 +19,6 @@ export default defineConfig({
         text: 'Group',
         items: [
           { text: 'About group', link: '/introduction' },
-          { text: 'Connect us', link: '/connect' },
         ]
       },
       {

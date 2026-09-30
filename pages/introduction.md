@@ -17,7 +17,6 @@ Fishpond Studio（鱼塘工作室）是一个由青年开发者、开源爱好�
 我们不设限特定领域，专注于解决实际问题与打造有趣的开源产物：
 
 1. **开源工具与应用**：
-   - 参与及维护 [SPlayer-Dev/SPlayer-for-Android](https://github.com/SPlayer-Dev/SPlayer-for-Android) 等多媒体项目生态。
    - 开发轻量级开源域名与服务协作管理平台 [DMHub](https://github.com/fishpond-studio/DMHub)。
 2. **社群生态与机器人**：
    - 面向开发组织与社群的自动化 Bot 服务、安全审计助手与工作流调度。
