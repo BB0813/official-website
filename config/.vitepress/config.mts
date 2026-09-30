@@ -32,7 +32,8 @@ export default defineConfig({
           { text: 'Jason31416', link: '/member/jason31416' },
           { text: 'ColdBreeze', link: '/member/coldbreeze' },
           { text: '小墨 (Kuromo)', link: '/member/kuromo' },
-          { text: '杨焱 oT', link: '/member/yangyanot' }
+          { text: '杨焱 oT', link: '/member/yangyanot' },
+          { text: '星见starcatchere', link: '/member/starcatchere' }
         ]
       }
     ],
